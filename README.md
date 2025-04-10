@@ -16,7 +16,7 @@ Aprendizado prático em ferramentas e linguagens atuais da área de TI para acel
 <a href="https://github.com/FabianaPSouza/FabianaPSouza/edit/main/README.md">
   <img height= 165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianaPSouza&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko"/>
 </a>
-<br>
+<br><br>
 <div>
   <a href="https://www.linkedin.com/in/fabianapsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </a>  
 </div>
