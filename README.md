@@ -11,7 +11,7 @@ Estou estudando desenvolvimento Web, linguagem C#, Python, Angular, React e SQL 
 Aprendizado prático em ferramentas e linguagens atuais da área de TI para acelerar minha transição e contribuição nos projetos.
 
 <a href="https://github.com/FabianaPSouza/FabianaPSouza/edit/main/README.md">
-  <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api?username=FabianaPSouza&show_icons=true&theme=merko&locale=pt-br"/>
+  <img height= 175 align="center" src="https://github-readme-stats.vercel.app/api?username=FabianaPSouza&show_icons=true&theme=merko&locale=pt-br"/>
 </a>
 <a href="https://github.com/FabianaPSouza/FabianaPSouza/edit/main/README.md">
   <img height= 175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianaPSouza&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko"/>
