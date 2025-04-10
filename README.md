@@ -5,7 +5,7 @@ Minha transição de carreira, focada na área de tecnologia e no desenvolviment
 
 🌱 Atualmente estou aprendendo:
 Novas tecnologias voltadas para desenvolvimento de sistemas, análise de dados e automação de processos.
-Estou estudando desenvolvimento Web, linguagem C#, Python, Angular, React e SQL para Análise de Dados.
+Estou estudando desenvolvimento Web, linguagem C#, Python, Angular, React e SQL.
 
 🤔 Estou buscando ajuda com:
 Aprendizado prático em ferramentas e linguagens atuais da área de TI para acelerar minha transição e contribuição nos projetos.
