@@ -10,9 +10,6 @@ Estou estudando desenvolvimento Web, linguagem C#, Python, Angular, React e SQL.
 🤔 Estou buscando ajuda com:
 Aprendizado prático em ferramentas e linguagens atuais da área de TI para acelerar minha transição e contribuição nos projetos.
 
-
-<!DOCTYPE html>
-<html lang="pt-br">
 <a href="https://github.com/FabianaPSouza/FabianaPSouza/edit/main/README.md">
     <img height=135 align="center"
         src="https://github-readme-stats.vercel.app/api?username=FabianaPSouza&show_icons=true&theme=merko&locale=pt-br" />
